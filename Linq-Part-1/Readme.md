@@ -6,7 +6,7 @@ This exercise is based on the Grocery List database that is found in Moodle. For
 
 ![Grocery List ERD](grocerylist_erd.png)
 
-1. You are managing the inventory for a grocery store. You need to find all products that belong to the "Vegetables" category and have a price that is greater than 3 dollar. List the Product IDs, Descriptions, Size and Price of all products.  Order by price.
+1. You are managing the inventory for a grocery store. You need to find all products that belong to the "Vegetable" category and have a price that is greater than 3 dollar. List the Product IDs, Descriptions, Size and Price of all products.  Order by price.
 
     ![Vegetables Category](q1.png)
 
