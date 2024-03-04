@@ -4,5 +4,5 @@
 
 1. [LINQ Part 1](./Linq-Part-1/Readme.md)
 1. [Team Blazor](./Blazor-Part-1/Readme.md)
-1. [LINQ OLTP](./LINQ-OLTP/Readme.md)
+1. [Advance LINQ Queries](./Advance-LINQ-Queries/Readme.md)
 1. [OLTP Coded Solution](./OLTP-Coding-using-Blazor/Readme.md)
