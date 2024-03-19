@@ -1,0 +1,141 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "ERaceContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "DAL",
+   "OutputPath": "Entities",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "ERaceLibrary",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[CarClasses]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Cars]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Categories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Certifications]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DatabaseVersion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Employees]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[InvoiceDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Invoices]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Members]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OrderDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Orders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Positions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Products]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RaceDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RaceFees]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RacePenalties]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Races]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ReceiveOrderItems]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ReceiveOrders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ReturnOrderItems]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SalesCartItems]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[StoreRefunds]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UnOrderedItems]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[VendorCatalogs]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Vendors]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "amd-3900xt-a.eRace-2024-R1.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
