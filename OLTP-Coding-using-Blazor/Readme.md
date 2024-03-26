@@ -104,7 +104,7 @@ The application is a web-based platform that provides functionalities for managi
 
 ### Adding or Editing a Car Requirements
   - **Description** is required.
-  - **Serial Number** is required.
+  - **Serial Number** is required.  **NOTE:  This must be a unique serial number.**
   - **Ownership** is required.
   - **State** is required.
   - **Car class** is required.
