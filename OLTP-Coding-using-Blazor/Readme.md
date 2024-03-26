@@ -23,7 +23,7 @@
 |        | **Total**                                              | 15     |                                                                                                                 |
 
 **Total Points: 15 (Maximum Penalty Deduction: 5 Points)**
-
+# NOTE:  A starter project has been included for you to begin with.
 ## Objective
 Develop a structured Blazor application focused on ERacing, where you will create a member search page enabling searches based on last names, along with functionality to edit existing members or add new ones. The application will include a feature to manage member demographics and a collection of associated cars. Additionally, you will be tasked with creating a BLL (Business Logic Layer) service for members, incorporating search functionality and add/edit operations. Member view models will include a list of CarView objects.
 
