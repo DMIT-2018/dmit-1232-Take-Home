@@ -98,7 +98,7 @@ The application is a web-based platform that provides functionalities for managi
   - **City** is required.
   - **Postal code** is required.
   - **Email** is required.
-  - The **age of the member** is greater than 100 years.
+  - The **age of the member** is less than 100 years.
   - **Certification level** is required.
   - A **minimum of 1 car** is needed per member.
 
